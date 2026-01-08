@@ -182,7 +182,7 @@ export const Pricing: React.FC = () => {
             ]}
             guarantee="7 dias"
             buttonText="COMEÇAR AGORA"
-            checkoutUrl="https://pay.wiapy.com/i38Fc6oP4_"
+            checkoutUrl="https://pay.wiapy.com/i38Fc6oP4"
           />
 
           <PricingCard 
