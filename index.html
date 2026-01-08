@@ -17,8 +17,6 @@
       s.parentNode.insertBefore(t,s)}(window, document,'script',
       'https://connect.facebook.net/en_US/fbevents.js');
       
-      // O pixel será inicializado automaticamente pelo UTMify ou manualmente aqui se necessário
-      // fbq('init', 'SEU_PIXEL_ID'); 
       fbq('track', 'PageView', { event_source_url: window.location.href });
     </script>
     
@@ -76,6 +74,7 @@
   }
 }
 </script>
+<script type="module" src="/index.tsx"></script>
 </head>
   <body>
     <div id="root"></div>
