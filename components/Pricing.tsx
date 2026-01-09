@@ -188,8 +188,8 @@ export const Pricing: React.FC = () => {
           <PricingCard 
             isPremium
             title="Oferta Vecna"
-            price="R$ 24,90"
-            priceNumeric={24.90}
+            price="R$ 19,90"
+            priceNumeric={19.90}
             oldPrice="R$ 97,00"
             badge="MELHOR CUSTO-BENEFÍCIO"
             features={[
